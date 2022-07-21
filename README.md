@@ -1,6 +1,6 @@
 # Colour-Animation
-Made use of Win32SDK
-\n Event driven Architecture based programming
-\n Windows Programming
+<br />Made use of Win32SDK
+<br />Event driven Architecture based programming
+<br />Windows Programming
 
-\n For more information refer to book named Programming Windows by Charles Petzold 
+<br />For more information refer to book named Programming Windows by Charles Petzold 
